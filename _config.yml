@@ -1,6 +1,6 @@
 name: JacobCrawford
 favicon: null
-layout_spectrum: 0.48734
+layout_spectrum: 0.20973
 typography_spectrum: 0.21074
 title: Jacob Crawford - Designer
 cta:
@@ -22,7 +22,7 @@ color:
     - '#d4422c'
     - '#cbccce'
     - '#96979b'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 0
